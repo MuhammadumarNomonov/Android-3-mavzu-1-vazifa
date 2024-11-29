@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TableRow>
+
+          <TextView
+              android:background="@color/white"
+            android:text=" ICC"
+              android:textSize="30sp"
+              />
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text=" Rank"
+                android:textSize="25sp"
+                android:background="#02ED0C"
+                />
+        </TableRow>
+        <TableRow>
+
+        <TextView
+            android:text=" 1"
+            android:textSize="20sp"
+            />
+    </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text=" 2"
+                android:textSize="20sp"
+                />
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text=" 3"
+                android:textSize="20sp"
+                />
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text=" 4"
+                android:textSize="20sp"
+                />
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text=" 5"
+                android:textSize="20sp"
+                />
+        </TableRow>
+
+    </TableLayout>
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+        <TableRow>
+            <TextView
+                android:text=" RANKING"
+                android:textSize="30sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" Player"
+                android:textSize="25sp"
+                android:background="#05F20E"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" Virat Kohli"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" Rohit Sharma"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Faf du Plessis"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Steven Smith"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Ross Taylor"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+
+    </TableLayout>
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+        <TableRow>
+            <TextView
+                android:text="  OF"
+                android:textSize="30sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="   Team"
+                android:textSize="25sp"
+                android:background="#05E60E"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="   IND"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="   IND"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="   PAK"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="   AUS"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="   NZ"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+
+    </TableLayout>
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+        <TableRow>
+            <TextView
+                android:text="PLAYERS"
+                android:textSize="30sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" Points "
+                android:textSize="25sp"
+                android:background="#09ED12"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" 895"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" 863"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" 834"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text=" 820"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text=" 817"
+                android:textSize="20sp"
+                android:background="@color/white"/>
+        </TableRow>
+
+
+    </TableLayout>
+
+
+
+
+
+</LinearLayout>
